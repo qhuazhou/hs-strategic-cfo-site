@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://www.hsgrowthcfo.com/sitemap.xml
+Sitemap: https://hsstrategiccfo.com/sitemap.xml
+

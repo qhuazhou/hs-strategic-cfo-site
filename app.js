@@ -13,7 +13,7 @@ const resultBox = document.querySelector("[data-result-box]");
 
 const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
 const WEB3FORMS_ACCESS_KEY = "e3bd0a5c-a8e0-4a8a-923c-72fa5dee4d47";
-const LEAD_FALLBACK_EMAIL = "qhuazhou@gmail.com";
+const LEAD_FALLBACK_EMAIL = "hello@hsstrategiccfo.com";
 const riskFields = ["ownership", "cashflow", "rates", "tax", "exit", "docs", "concentration"];
 
 const labels = {
@@ -259,6 +259,3 @@ if (stressForm && resultBox) {
     }
   });
 }
-
-
-
