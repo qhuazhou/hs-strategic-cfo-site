@@ -12,15 +12,88 @@
     <meta property="og:url" content="https://hsstrategiccfo.com/">
     <link rel="stylesheet" href="styles.css">
     <script type="application/ld+json">
-      {
+{
         "@context": "https://schema.org",
-        "@type": "ProfessionalService",
-        "name": "HS Strategic CFO Advisory",
-        "url": "https://hsstrategiccfo.com/",
-        "areaServed": ["Vancouver", "British Columbia", "Canada"],
-        "description": "CFO-level advisory for real estate investors, business owners, and founders.",
-        "serviceType": ["Real estate advisory", "Fractional CFO services", "Business valuation", "Tax planning", "Acquisition and exit advisory"]
-      }
+        "@graph": [
+                {
+                        "@type": "Organization",
+                        "@id": "https://hsstrategiccfo.com/#organization",
+                        "name": "HS Strategic CFO Advisory",
+                        "url": "https://hsstrategiccfo.com/",
+                        "email": "hello@hsstrategiccfo.com",
+                        "areaServed": [
+                                "Vancouver",
+                                "British Columbia",
+                                "Canada"
+                        ],
+                        "sameAs": [
+                                "https://www.linkedin.com/in/calvin-zhou-260251313/"
+                        ]
+                },
+                {
+                        "@type": "Person",
+                        "@id": "https://hsstrategiccfo.com/#calvin-zhou",
+                        "name": "Calvin Zhou",
+                        "url": "https://hsstrategiccfo.com/about",
+                        "worksFor": {
+                                "@id": "https://hsstrategiccfo.com/#organization"
+                        },
+                        "jobTitle": "Strategic CFO Advisor"
+                },
+                {
+                        "@type": "ProfessionalService",
+                        "@id": "https://hsstrategiccfo.com/#service",
+                        "name": "HS Strategic CFO Advisory",
+                        "url": "https://hsstrategiccfo.com/",
+                        "description": "High-stakes finance and investment decision support for real estate investors, developers, business owners, founders, acquisition buyers, and owner-investors.",
+                        "areaServed": [
+                                "Vancouver",
+                                "British Columbia",
+                                "Canada"
+                        ],
+                        "serviceType": [
+                                "Real estate finance advisory",
+                                "Strategic CFO advisory",
+                                "Development feasibility analysis",
+                                "Acquisition due diligence",
+                                "Exit planning",
+                                "Investment analysis"
+                        ]
+                }
+        ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                {
+                        "@type": "Question",
+                        "name": "What does HS Strategic CFO Advisory help with?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "HS Strategic CFO Advisory helps real estate investors, developers, business owners, founders, and acquisition buyers make high-stakes finance and investment decisions involving cash flow, financing, valuation, tax structure, acquisition, development, and exit."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "What is real estate finance advisory?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Real estate finance advisory reviews whether a property or development decision works after debt, tax, vacancy, repairs, reserves, financing pressure, valuation, market risk, and exit costs are considered."
+                        }
+                },
+                {
+                        "@type": "Question",
+                        "name": "When should an owner request a Strategic CFO review?",
+                        "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "An owner should request a Strategic CFO review before raising capital, refinancing, acquiring a business, preparing for exit, changing compensation or tax structure, or making a decision that depends on forecast quality and cash-flow resilience."
+                        }
+                }
+        ]
+}
     </script>
   </head>
   <body>

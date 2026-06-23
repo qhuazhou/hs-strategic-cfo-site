@@ -817,3 +817,40 @@ button:disabled,
 }
 
 
+
+
+.article-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 0.42fr);
+  gap: 34px;
+  align-items: start;
+}
+
+.article-section {
+  padding-bottom: 30px;
+}
+
+.article-section h2 {
+  font-size: clamp(28px, 4vw, 42px);
+  margin-bottom: 14px;
+}
+
+.article-section p {
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.article-aside {
+  position: sticky;
+  top: 104px;
+}
+
+@media (max-width: 900px) {
+  .article-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .article-aside {
+    position: static;
+  }
+}
