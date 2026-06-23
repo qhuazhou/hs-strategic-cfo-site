@@ -1,4 +1,4 @@
-﻿# HS Strategic CFO Advisory
+# HS Strategic CFO Advisory
 
 HS Strategic CFO Advisory provides CFO-level advisory for Vancouver and BC real estate investors, business owners, founders, and owner-investors making high-stakes financial decisions.
 
@@ -31,5 +31,8 @@ Audience:
 
 ## Insight pages
 - https://hsstrategiccfo.com/insights/cap-rate-is-not-cash-flow
+- https://hsstrategiccfo.com/insights/noi-quality-real-estate
 - https://hsstrategiccfo.com/insights/development-feasibility-vancouver
 - https://hsstrategiccfo.com/insights/acquisition-due-diligence-red-flags
+- https://hsstrategiccfo.com/insights/lender-ready-financial-model
+- https://hsstrategiccfo.com/insights/owner-tax-leakage-check
