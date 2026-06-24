@@ -20,6 +20,7 @@ Primary service pages:
 - https://hsstrategiccfo.com/business-growth-cfo
 - https://hsstrategiccfo.com/acquisition-exit-advisory
 - https://hsstrategiccfo.com/about
+- https://hsstrategiccfo.com/books
 
 Audience:
 - Vancouver and BC real estate investors
@@ -36,3 +37,7 @@ Audience:
 - https://hsstrategiccfo.com/insights/acquisition-due-diligence-red-flags
 - https://hsstrategiccfo.com/insights/lender-ready-financial-model
 - https://hsstrategiccfo.com/insights/owner-tax-leakage-check
+
+## Books
+- You Don't Know the Housing Market but You Should: https://www.amazon.ca/dp/B0G1JYWVHR
+- A Guide to Canadian Real Estate Tax Planning: https://www.amazon.ca/dp/B0GX32M2Y8
