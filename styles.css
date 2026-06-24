@@ -986,3 +986,42 @@ button:disabled,
     min-height: 220px;
   }
 }
+
+
+.book-mini.cover-link {
+  min-height: 0;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.book-mini.cover-link img,
+.book-cover-img img {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 6px;
+  box-shadow: 0 22px 45px rgba(20, 35, 31, 0.22);
+}
+
+.book-cover-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 420px;
+  padding: 22px;
+  border-radius: var(--radius);
+  background: #f3f5ef;
+  border: 1px solid var(--line);
+}
+
+@media (max-width: 900px) {
+  .book-cover-img {
+    min-height: 0;
+  }
+}
