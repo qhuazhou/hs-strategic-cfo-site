@@ -69,7 +69,7 @@ function recommendationFor(clientType, projectStage) {
     return {
       title: "Transaction Decision Review",
       service: "Acquisition & Exit Advisory",
-      href: "acquisition-exit-advisory.html",
+      href: "/acquisition-exit-advisory",
       summary: "The next review should focus on normalized earnings, working capital, tax structure, financing capacity, owner dependency, and the risk points that should be settled before terms are final."
     };
   }
@@ -78,7 +78,7 @@ function recommendationFor(clientType, projectStage) {
     return {
       title: "Strategic Finance Review",
       service: "Strategic CFO Advisory",
-      href: "business-growth-cfo.html",
+      href: "/business-growth-cfo",
       summary: "The next review should focus on forecast quality, cash conversion, tax leakage, financing needs, reporting discipline, and whether the finance function supports the next major decision."
     };
   }
@@ -87,7 +87,7 @@ function recommendationFor(clientType, projectStage) {
     return {
       title: "Development Feasibility Review",
       service: "Real Estate Advisory",
-      href: "real-estate-advisory.html",
+      href: "/real-estate-advisory",
       summary: "The next review should focus on land basis, zoning or entitlement assumptions, buildable area, hard and soft costs, financing, presale or lease-up risk, tax, and exit value."
     };
   }
@@ -95,7 +95,7 @@ function recommendationFor(clientType, projectStage) {
   return {
     title: "Real Estate Investment Review",
     service: "Real Estate Advisory",
-    href: "real-estate-advisory.html",
+    href: "/real-estate-advisory",
     summary: "The next review should focus on after-tax cash flow, debt renewal pressure, ownership structure, repair reserves, documentation, concentration risk, and the decision to buy, hold, refinance, or exit."
   };
 }
