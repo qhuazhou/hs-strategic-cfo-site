@@ -115,10 +115,14 @@ a {
   display: none;
   border: 1px solid var(--line);
   background: var(--white);
-  width: 40px;
+  width: auto;
+  min-width: 58px;
   height: 40px;
+  padding: 0 12px;
   border-radius: 6px;
-  font-size: 22px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 760;
 }
 
 .hero {
@@ -136,6 +140,10 @@ a {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.hero-image {
+  object-position: center center;
 }
 
 .hero::before {
@@ -400,6 +408,191 @@ main {
   border-radius: var(--radius);
   padding: 18px;
   box-shadow: var(--shadow);
+}
+
+.project-overview {
+  grid-template-columns: minmax(0, 0.82fr) minmax(460px, 1.18fr);
+}
+
+.project-dashboard {
+  overflow: hidden;
+  border: 1px solid #ccd6cf;
+  border-radius: 12px;
+  background: #f8faf7;
+  box-shadow: 0 28px 70px rgba(20, 35, 31, 0.18);
+}
+
+.project-dashboard-head,
+.project-dashboard-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px 22px;
+  background: #12372d;
+  color: var(--white);
+}
+
+.project-dashboard-head strong,
+.project-dashboard-foot strong {
+  display: block;
+}
+
+.dashboard-kicker,
+.project-dashboard-foot span {
+  display: block;
+  margin-bottom: 3px;
+  color: #b8cfc3;
+  font-size: 11px;
+  font-weight: 760;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dashboard-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  color: #dfeadf;
+  font-size: 12px;
+}
+
+.dashboard-status i {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #89bd78;
+  box-shadow: 0 0 0 4px rgba(137, 189, 120, 0.13);
+}
+
+.project-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-bottom: 1px solid var(--line);
+  background: var(--white);
+}
+
+.project-metrics > div {
+  padding: 18px;
+  border-right: 1px solid var(--line);
+}
+
+.project-metrics > div:last-child {
+  border-right: 0;
+}
+
+.project-metrics span,
+.project-metrics small {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.project-metrics strong {
+  display: block;
+  margin: 4px 0 2px;
+  color: var(--forest);
+  font-size: 17px;
+}
+
+.project-dashboard-body {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 0;
+}
+
+.cost-progress,
+.funding-stack {
+  padding: 22px;
+}
+
+.funding-stack {
+  border-left: 1px solid var(--line);
+  background: #f1f5ef;
+}
+
+.dashboard-section-title,
+.progress-row > div,
+.funding-stack > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.dashboard-section-title {
+  margin-bottom: 18px;
+}
+
+.dashboard-section-title span,
+.progress-row span,
+.funding-stack span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.progress-row {
+  margin-top: 15px;
+}
+
+.progress-row b,
+.funding-stack b {
+  font-size: 12px;
+}
+
+.progress-row > i {
+  display: block;
+  height: 7px;
+  margin-top: 7px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #e0e7e1;
+}
+
+.progress-row > i em {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--forest), var(--moss));
+}
+
+.funding-stack > div:not(.dashboard-section-title) {
+  padding: 11px 0;
+  border-top: 1px solid #dce4dc;
+}
+
+.source-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-right: 7px;
+  border-radius: 50%;
+}
+
+.source-dot.lender {
+  background: var(--forest);
+}
+
+.source-dot.equity {
+  background: var(--gold);
+}
+
+.source-dot.program {
+  background: var(--blue);
+}
+
+.project-dashboard-foot {
+  align-items: flex-end;
+  background: #e9efe9;
+  color: var(--ink);
+}
+
+.project-dashboard-foot span {
+  margin: 0;
+  color: var(--forest);
 }
 
 .visual-panel img {
@@ -792,6 +985,10 @@ button:disabled,
     grid-template-columns: 1fr;
   }
 
+  .project-overview {
+    grid-template-columns: 1fr;
+  }
+
   .journey {
     grid-template-columns: 1fr 1fr;
   }
@@ -839,6 +1036,31 @@ button:disabled,
   .metric-row,
   .result-grid {
     grid-template-columns: 1fr;
+  }
+
+  .project-metrics,
+  .project-dashboard-body {
+    grid-template-columns: 1fr;
+  }
+
+  .project-metrics > div {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .project-metrics > div:last-child {
+    border-bottom: 0;
+  }
+
+  .funding-stack {
+    border-top: 1px solid var(--line);
+    border-left: 0;
+  }
+
+  .project-dashboard-head,
+  .project-dashboard-foot {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .hero-proof div {
