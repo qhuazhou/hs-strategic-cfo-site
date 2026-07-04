@@ -1,8 +1,14 @@
 # HS Strategic CFO Advisory
 
-HS Strategic CFO Advisory provides CFO-level advisory for Vancouver and BC real estate investors, business owners, founders, and owner-investors making high-stakes financial decisions.
+HS Strategic CFO Advisory provides development finance and funding consulting for development and construction projects, alongside CFO-level advisory for Vancouver and BC owner-led businesses and real estate investors.
 
 Core topics:
+- Development finance consulting
+- Project financial models and pro formas
+- Funding and grant application support
+- Construction draws and progress claim management
+- Project budget, cost, cash-flow, and funding tracking
+- Financial reporting and project-team coordination
 - Real estate investment analysis
 - Real estate investment stress testing
 - Financing strategy and capital structure
@@ -16,6 +22,7 @@ Primary client review:
 - URL: https://hsstrategiccfo.com/stress-test
 
 Primary service pages:
+- Development Finance & Funding Consulting: https://hsstrategiccfo.com/development-finance-consulting
 - https://hsstrategiccfo.com/real-estate-advisory
 - Fractional CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
 - https://hsstrategiccfo.com/acquisition-exit-advisory
@@ -23,6 +30,8 @@ Primary service pages:
 - https://hsstrategiccfo.com/books
 
 Audience:
+- Developers, project owners, development managers, and construction project teams
+- Organizations preparing project funding and grant applications
 - Vancouver and BC real estate investors
 - Chinese-speaking owner-investors
 - Owner-led businesses
