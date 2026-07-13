@@ -1719,24 +1719,28 @@ h1, h2, h3,
 }
 
 .stress-layout {
-  align-items: start;
+  align-items: stretch;
   grid-template-columns: minmax(0, .86fr) minmax(460px, 1.14fr);
   gap: 7vw;
 }
 
 .stress-guide {
-  position: sticky;
-  top: 112px;
+  position: static;
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: clamp(48px, 5vw, 88px);
 }
 
 .stress-guide .section-head {
-  margin-bottom: 28px;
+  margin-bottom: 0;
 }
 
 .stress-topics {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-bottom: 30px;
+  margin-bottom: 0;
   border-top: 1px solid rgba(255, 255, 255, .25);
 }
 
@@ -1755,7 +1759,7 @@ h1, h2, h3,
 }
 
 .stress-layout .video-card {
-  margin: 0 0 22px;
+  margin: 0;
 }
 
 .stress-layout .lead-box {
@@ -1770,6 +1774,7 @@ h1, h2, h3,
 
   .stress-guide {
     position: static;
+    gap: 30px;
   }
 }
 
