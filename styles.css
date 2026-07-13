@@ -1731,6 +1731,7 @@ h1, h2, h3,
   flex-direction: column;
   justify-content: space-between;
   gap: clamp(48px, 5vw, 88px);
+  padding-bottom: clamp(84px, 8vw, 132px);
 }
 
 .stress-guide .section-head {
@@ -1775,6 +1776,7 @@ h1, h2, h3,
   .stress-guide {
     position: static;
     gap: 30px;
+    padding-bottom: 0;
   }
 }
 
