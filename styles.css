@@ -1625,6 +1625,67 @@ h1, h2, h3,
   color: var(--ink);
 }
 
+/* Light surfaces nested inside dark sections must never inherit white text. */
+.section.forest .lead-box,
+.section.forest .card,
+.section.forest .question,
+.section.forest .result-box,
+.section.forest .video-caption,
+.section.forest .milestone-card,
+.section.white .card,
+.section.white .lead-box,
+.section.white .question,
+.section.white .result-box,
+.section.white .video-caption {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.section.forest .lead-box h2,
+.section.forest .lead-box h3,
+.section.forest .card h2,
+.section.forest .card h3,
+.section.forest .question,
+.section.forest .result-box h2,
+.section.forest .result-box h3,
+.section.forest .video-caption strong,
+.section.forest .milestone-card h2,
+.section.forest .milestone-card h3,
+.section.white .card h2,
+.section.white .card h3,
+.section.white .lead-box h2,
+.section.white .lead-box h3,
+.section.white .question,
+.section.white .result-box h2,
+.section.white .result-box h3,
+.section.white .video-caption strong {
+  color: var(--ink);
+}
+
+.section.forest .lead-box p,
+.section.forest .card p,
+.section.forest .question p,
+.section.forest .result-box p,
+.section.forest .video-caption p,
+.section.forest .milestone-card p,
+.section.white .card p,
+.section.white .lead-box p,
+.section.white .question p,
+.section.white .result-box p,
+.section.white .video-caption p {
+  color: var(--muted);
+}
+
+.section.forest .lead-box a:not(.button),
+.section.forest .card a:not(.button),
+.section.forest .result-box a:not(.button),
+.section.white .card a:not(.button),
+.section.white .lead-box a:not(.button),
+.section.white .result-box a:not(.button) {
+  color: var(--forest);
+  font-weight: 700;
+}
+
 .site-footer {
   background: var(--paper);
 }
