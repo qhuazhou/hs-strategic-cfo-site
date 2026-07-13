@@ -1686,6 +1686,38 @@ h1, h2, h3,
   font-weight: 700;
 }
 
+.section.forest.faq details,
+.section.white.faq details {
+  background: var(--paper);
+  border-color: rgba(25, 35, 31, 0.22);
+  color: var(--ink);
+}
+
+.section.forest.faq summary,
+.section.white.faq summary {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.section.forest.faq details p,
+.section.white.faq details p {
+  color: var(--muted);
+}
+
+.section.forest.faq summary::marker,
+.section.white.faq summary::marker {
+  color: var(--gold);
+}
+
+.section.forest.faq summary:focus-visible,
+.section.white.faq summary:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 5px;
+}
+
 .site-footer {
   background: var(--paper);
 }
