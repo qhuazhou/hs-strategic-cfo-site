@@ -1956,8 +1956,8 @@ h3,
 }
 
 .eyebrow::before {
-  content: "STATUS /";
-  color: var(--gold);
+  content: none;
+  display: none;
 }
 
 .hero h1 {
