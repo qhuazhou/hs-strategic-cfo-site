@@ -1,0 +1,19 @@
+# Permanently consolidate legacy .html URLs into the canonical clean URLs.
+/index.html / 301
+/about.html /about 301
+/acquisition-exit-advisory.html /acquisition-exit-advisory 301
+/books.html /books 301
+/business-growth-cfo.html /business-growth-cfo 301
+/development-finance-consulting.html /development-finance-consulting 301
+/insights.html /insights 301
+/real-estate-advisory.html /real-estate-advisory 301
+/stress-test.html /stress-test 301
+/insights/acquisition-due-diligence-red-flags.html /insights/acquisition-due-diligence-red-flags 301
+/insights/cap-rate-is-not-cash-flow.html /insights/cap-rate-is-not-cash-flow 301
+/insights/development-feasibility-vancouver.html /insights/development-feasibility-vancouver 301
+/insights/exit-readiness-normalized-ebitda-business-sale.html /insights/exit-readiness-normalized-ebitda-business-sale 301
+/insights/financial-due-diligence-buying-small-business-vancouver.html /insights/financial-due-diligence-buying-small-business-vancouver 301
+/insights/improve-cash-flow-before-financing.html /insights/improve-cash-flow-before-financing 301
+/insights/lender-ready-financial-model.html /insights/lender-ready-financial-model 301
+/insights/noi-quality-real-estate.html /insights/noi-quality-real-estate 301
+/insights/owner-tax-leakage-check.html /insights/owner-tax-leakage-check 301
