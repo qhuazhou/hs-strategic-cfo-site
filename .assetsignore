@@ -1,0 +1,12 @@
+.git
+.git/**
+.wrangler
+.wrangler/**
+.openai
+.openai/**
+node_modules
+node_modules/**
+.DS_Store
+.gitignore
+.assetsignore
+wrangler.jsonc
