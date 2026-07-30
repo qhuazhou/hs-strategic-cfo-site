@@ -1,6 +1,22 @@
 ﻿const navButton = document.querySelector("[data-menu-toggle]");
 const navLinks = document.querySelector("[data-nav-links]");
 
+const heroMotion = document.querySelector("[data-hero-motion]");
+if (heroMotion) {
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+  const syncHeroMotion = () => {
+    if (reducedMotion.matches) {
+      heroMotion.pause();
+      return;
+    }
+    heroMotion.playbackRate = 1.35;
+    heroMotion.play().catch(() => {});
+  };
+
+  syncHeroMotion();
+  reducedMotion.addEventListener?.("change", syncHeroMotion);
+}
+
 if (navButton && navLinks) {
   navButton.addEventListener("click", () => {
     navLinks.classList.toggle("open");
