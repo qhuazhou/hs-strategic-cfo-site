@@ -10,7 +10,12 @@
     <meta property="og:description" content="Project finance, funding applications, draw management, reporting, and coordination for development and construction projects.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://hsstrategiccfo.com/">
-    <link rel="preload" as="image" href="assets/development-finance-hero-light.webp" fetchpriority="high">
+    <meta property="og:image" content="https://hsstrategiccfo.com/assets/hs-home-social-preview.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="HS Strategic CFO Advisory — Finance that keeps development projects moving.">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="preload" as="image" href="assets/hero-poster-vibrant.webp" fetchpriority="high">
     <link rel="stylesheet" href="styles.css">
     <script type="application/ld+json">
 {
@@ -101,7 +106,7 @@
 }
     </script>
   </head>
-  <body>
+  <body class="home-light">
     <header class="site-header">
       <nav class="nav" aria-label="Main navigation">
         <a class="brand brand-with-logo" href="/"><img class="brand-logo" src="assets/hs-business-consulting-logo.png" alt="HS Strategic CFO Advisory logo"><span>HS Strategic CFO Advisory <small>Development finance and strategic CFO support</small></span></a>
@@ -121,7 +126,9 @@
 
     <main>
       <section class="hero">
-        <img class="hero-video hero-image" src="assets/development-finance-hero-light.webp" width="1672" height="941" alt="Development, finance, architecture, and project-management professionals reviewing a construction project in a bright Vancouver office" fetchpriority="high" decoding="async">
+        <video class="hero-video" data-hero-motion autoplay muted loop playsinline preload="metadata" poster="assets/hero-poster-vibrant.webp" aria-hidden="true">
+          <source src="assets/hero-loop-vibrant.mp4" type="video/mp4">
+        </video>
         <div class="hero-inner">
           <div class="hero-copy">
             <p class="eyebrow">Development Finance & Funding Consulting</p>
@@ -139,6 +146,21 @@
           </div>
         </div>
       </section>
+
+      <div class="home-ticker" aria-label="Advisory focus areas">
+        <div class="home-ticker-track">
+          <span>Development finance</span><i></i>
+          <span>Funding readiness</span><i></i>
+          <span>Acquisition diligence</span><i></i>
+          <span>Exit readiness</span><i></i>
+          <span>Real estate advisory</span><i></i>
+          <span aria-hidden="true">Development finance</span><i aria-hidden="true"></i>
+          <span aria-hidden="true">Funding readiness</span><i aria-hidden="true"></i>
+          <span aria-hidden="true">Acquisition diligence</span><i aria-hidden="true"></i>
+          <span aria-hidden="true">Exit readiness</span><i aria-hidden="true"></i>
+          <span aria-hidden="true">Real estate advisory</span><i aria-hidden="true"></i>
+        </div>
+      </div>
 
       <section class="section white">
         <div class="container split project-overview">
@@ -216,7 +238,7 @@
               <span class="offer-index">03</span>
               <h3>Fractional CFO Vancouver</h3>
               <p>Cash flow, forecasting, reporting, financing readiness, and senior finance leadership.</p>
-              <a href="/business-growth-cfo">Explore fractional CFO services</a>
+              <a href="/business-growth-cfo">Explore Fractional CFO Vancouver services</a>
             </article>
             <article class="card offer-card">
               <span class="offer-index">04</span>
@@ -236,14 +258,14 @@
             <div class="section-head">
               <p class="eyebrow dark">Books by Calvin Zhou</p>
               <h2>Deeper thinking behind the advisory work.</h2>
-              <p>Practical thinking on housing markets, Canadian real estate tax, and investment decisions.</p>
+              <p>Challenge what you think you know about house prices, then connect the market view to Canadian real estate tax and investment decisions.</p>
             </div>
             <div class="actions">
               <a class="button" href="/books">View the Books</a>
             </div>
           </div>
           <div class="book-stack" aria-label="Books by Calvin Zhou">
-            <a class="book-mini cover-link" href="/books"><img src="assets/book-housing-market.jpg" alt="Cover of You Don't Know the Housing Market but You Should by Calvin Zhou"></a>
+            <a class="book-mini cover-link" href="/books"><img src="assets/book-the-housing-illusion.webp" alt="Cover of The Housing Illusion by Calvin Zhou"></a>
             <a class="book-mini cover-link accent" href="/books"><img src="assets/book-canadian-real-estate-tax.jpg" alt="Cover of A Guide to Canadian Real Estate Tax Planning by Calvin Zhou"></a>
           </div>
         </div>
@@ -313,4 +335,3 @@
     <script src="app.js?v=6"></script>
   </body>
 </html>
-
