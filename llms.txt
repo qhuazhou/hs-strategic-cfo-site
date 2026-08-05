@@ -1,42 +1,37 @@
 # HS Strategic CFO Advisory
 
-HS Strategic CFO Advisory provides development finance and funding consulting for development and construction projects, alongside CFO-level advisory for Vancouver and BC owner-led businesses and real estate investors.
+HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses. Core work includes cash-flow forecasting, management reporting, financing readiness, acquisitions, and exit planning, with specialist capability in development and real estate finance.
 
 Core topics:
+- Fractional CFO and strategic CFO advisory
+- Cash-flow forecasting and management reporting
+- Lender-ready financial models and financing readiness
+- Financing strategy and capital structure
+- Business acquisition and exit advisory
+- Normalized EBITDA and financial due diligence
 - Development finance consulting
 - Project financial models and pro formas
-- Funding and grant application support
 - Construction draws and progress claim management
-- Project budget, cost, cash-flow, and funding tracking
-- Financial reporting and project-team coordination
 - Real estate investment analysis
-- Real estate investment stress testing
-- Financing strategy and capital structure
-- Market analysis and valuation
-- Fractional CFO and strategic CFO advisory
-- Investor-ready financials
-- Business acquisition and exit advisory
 
-Primary client review:
-- Real Estate Investment Stress Test
-- URL: https://hsstrategiccfo.com/stress-test
+Primary service:
+- Fractional CFO Vancouver
+- URL: https://hsstrategiccfo.com/business-growth-cfo
 
 Primary service pages:
-- Development Finance & Funding Consulting: https://hsstrategiccfo.com/development-finance-consulting
-- https://hsstrategiccfo.com/real-estate-advisory
 - Fractional CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
-- https://hsstrategiccfo.com/acquisition-exit-advisory
-- https://hsstrategiccfo.com/about
-- https://hsstrategiccfo.com/books
+- Development Finance & Funding Consulting: https://hsstrategiccfo.com/development-finance-consulting
+- Real Estate Advisory: https://hsstrategiccfo.com/real-estate-advisory
+- Acquisition & Exit Advisory: https://hsstrategiccfo.com/acquisition-exit-advisory
+- About: https://hsstrategiccfo.com/about
+- Books: https://hsstrategiccfo.com/books
 
 Audience:
-- Developers, project owners, development managers, and construction project teams
-- Organizations preparing project funding and grant applications
-- Vancouver and BC real estate investors
-- Chinese-speaking owner-investors
 - Owner-led businesses
 - Founders preparing for financing
 - Buyers and sellers of small and mid-sized businesses
+- Developers, project owners, development managers, and construction project teams
+- Vancouver and BC real estate investors
 
 
 ## Insight pages
@@ -51,5 +46,5 @@ Audience:
 - https://hsstrategiccfo.com/insights/owner-tax-leakage-check
 
 ## Books
-- You Don't Know the Housing Market but You Should: https://www.amazon.ca/dp/B0G1JYWVHR
+- The Housing Illusion: https://www.amazon.ca/dp/B0H9H6ZH9Y
 - A Guide to Canadian Real Estate Tax Planning: https://www.amazon.ca/dp/B0GX32M2Y8

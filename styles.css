@@ -720,6 +720,10 @@ main {
   border: 1px solid #d5ddce;
 }
 
+.cfo-differentiator {
+  margin-top: 24px;
+}
+
 .lead-box h3 {
   font-size: 28px;
   margin-bottom: 10px;
