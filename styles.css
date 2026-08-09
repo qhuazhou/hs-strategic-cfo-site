@@ -2614,13 +2614,15 @@ main {
 }
 
 .home-light .hero {
-  min-height: min(800px, calc(100vh - 75px));
+  min-height: min(520px, calc(100vh - 75px));
   background: #e8fbf3;
   border: 0;
 }
 
 .home-light .hero-video {
+  object-position: center top;
   transform: scale(1.025);
+  transform-origin: center top;
   filter: saturate(1.12) brightness(1.04);
 }
 
@@ -2665,6 +2667,7 @@ main {
 
 .home-light .hero-label-only .eyebrow {
   margin: 0;
+  font-size: 15px;
 }
 
 .home-light .section-primary-heading {
@@ -2963,6 +2966,10 @@ main {
     min-height: 68svh;
   }
 
+  .home-light .hero-video {
+    transform: scale(1.4);
+  }
+
   .home-light .hero-copy {
     padding: 0;
     border-radius: 0;
@@ -2999,7 +3006,4 @@ main {
     padding-inline: 20px;
   }
 
-  .home-light .hero-video {
-    transform: none;
-  }
 }
