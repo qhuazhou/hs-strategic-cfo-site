@@ -2653,6 +2653,27 @@ main {
   backdrop-filter: none;
 }
 
+.home-light .hero-inner.hero-label-only {
+  min-height: inherit;
+  display: flex;
+  align-items: flex-start;
+}
+
+.home-light .hero-label-only .hero-copy {
+  max-width: none;
+}
+
+.home-light .hero-label-only .eyebrow {
+  margin: 0;
+}
+
+.home-light .section-primary-heading {
+  max-width: 820px;
+  color: var(--home-ink);
+  font-size: clamp(38px, 5vw, 62px);
+  line-height: 1.02;
+}
+
 .home-light .hero .eyebrow {
   color: #086c5a;
   text-shadow: 0 1px 0 rgba(255, 255, 255, .8);
@@ -2936,6 +2957,10 @@ main {
 
   .home-light .hero-inner {
     padding-top: 210px;
+  }
+
+  .home-light .hero-inner.hero-label-only {
+    min-height: 68svh;
   }
 
   .home-light .hero-copy {
