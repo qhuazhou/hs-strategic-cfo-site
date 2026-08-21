@@ -1,55 +1,47 @@
 # HS Strategic CFO Advisory
 
-HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses. Core work includes cash-flow forecasting, management reporting, financing readiness, acquisitions, and exit planning, with specialist capability in development and real estate finance.
-
-Core topics:
-- Fractional CFO and strategic CFO advisory
-- Cash-flow forecasting and management reporting
-- Lender-ready financial models and financing readiness
-- Fractional, outsourced, and part-time CFO scope and cost considerations
-- Financing strategy and capital structure
-- Business acquisition and exit advisory
-- Normalized EBITDA and financial due diligence
-- Development finance consulting
-- Project financial models and pro formas
-- Lender-ready financial packages for real estate development
-- Construction draws and progress claim management
-- Real estate investment analysis
+HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses, with specialist acquisition, development and commercial real estate finance capability. The site is organized around the decisions owners are trying to make, supported by professional service pages.
 
 Primary service:
-- Fractional CFO Vancouver
-- URL: https://hsstrategiccfo.com/business-growth-cfo
-
-Primary service pages:
 - Fractional CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
-- Development Finance & Funding Consulting: https://hsstrategiccfo.com/development-finance-consulting
-- Real Estate Advisory: https://hsstrategiccfo.com/real-estate-advisory
-- Acquisition & Exit Advisory: https://hsstrategiccfo.com/acquisition-exit-advisory
-- About: https://hsstrategiccfo.com/about
-- Books: https://hsstrategiccfo.com/books
 
-Audience:
-- Owner-led businesses
-- Founders preparing for financing
-- Buyers and sellers of small and mid-sized businesses
-- Developers, project owners, development managers, and construction project teams
-- Construction companies needing cash-flow, work-in-progress, margin, and financing visibility
-- Vancouver and BC real estate investors
+## Customer decision hubs
+- Business cash flow and borrowing: https://hsstrategiccfo.com/business
+- Buying a business: https://hsstrategiccfo.com/buy-a-business
+- Selling a business: https://hsstrategiccfo.com/sell-my-business
+- Commercial real estate decisions: https://hsstrategiccfo.com/real-estate
+- Property development decisions: https://hsstrategiccfo.com/development
+- Tax-aware owner decisions: https://hsstrategiccfo.com/tax
 
+## Authoritative decision pages
+- Why is my business profitable but short of cash?: https://hsstrategiccfo.com/business/profitable-but-no-cash
+- How much can my business borrow?: https://hsstrategiccfo.com/business/how-much-can-my-business-borrow
+- What financials are needed for a business loan?: https://hsstrategiccfo.com/business/financials-for-business-loan
+- How much should I pay for a business?: https://hsstrategiccfo.com/buy-a-business/how-much-should-i-pay
+- What should I check before buying a business?: https://hsstrategiccfo.com/buy-a-business/what-should-i-check
+- How much is my business worth?: https://hsstrategiccfo.com/sell-my-business/how-much-is-my-business-worth
+- Is this commercial property a good investment?: https://hsstrategiccfo.com/real-estate/is-this-property-a-good-investment
+- Will my development project make money?: https://hsstrategiccfo.com/development/will-my-project-make-money
+- Should I incorporate my business in Canada?: https://hsstrategiccfo.com/tax/should-i-incorporate
+- Salary vs dividends in Canada: https://hsstrategiccfo.com/tax/salary-vs-dividends
 
-## Insight pages
-- https://hsstrategiccfo.com/insights/cap-rate-is-not-cash-flow
-- https://hsstrategiccfo.com/insights/noi-quality-real-estate
-- https://hsstrategiccfo.com/insights/development-feasibility-vancouver
-- https://hsstrategiccfo.com/insights/financial-due-diligence-buying-small-business-vancouver
-- https://hsstrategiccfo.com/insights/acquisition-due-diligence-red-flags
-- https://hsstrategiccfo.com/insights/exit-readiness-normalized-ebitda-business-sale
-- https://hsstrategiccfo.com/insights/improve-cash-flow-before-financing
-- https://hsstrategiccfo.com/insights/lender-ready-financial-model
-- https://hsstrategiccfo.com/insights/fractional-cfo-cost-vancouver
-- https://hsstrategiccfo.com/insights/lender-ready-real-estate-development-financial-package
-- https://hsstrategiccfo.com/insights/owner-tax-leakage-check
+## Professional services
+- Fractional CFO: https://hsstrategiccfo.com/business-growth-cfo
+- Development finance: https://hsstrategiccfo.com/development-finance-consulting
+- Real estate financial analysis: https://hsstrategiccfo.com/real-estate-advisory
+- Acquisition and exit advisory: https://hsstrategiccfo.com/acquisition-exit-advisory
 
-## Books
-- The Housing Illusion: https://www.amazon.ca/dp/B0H9H6ZH9Y
-- A Guide to Canadian Real Estate Tax Planning: https://www.amazon.ca/dp/B0GX32M2Y8
+## Supporting expertise
+- Cash-flow forecasting and management reporting
+- Lender-ready financial models and financing readiness
+- Business borrowing capacity and debt-service analysis
+- Acquisition financial due diligence and normalized EBITDA
+- Business value and exit readiness
+- Development pro formas, project cash flow, funding packages and lender draws
+- Commercial real estate NOI, financing and investment analysis
+
+Author and advisor:
+- Calvin Zhou: https://hsstrategiccfo.com/about
+
+Important scope note:
+HS provides strategic financial analysis and decision support. Specific lending decisions remain with capital providers. Tax, legal, assurance, appraisal and regulated advice should be confirmed with the appropriate qualified professionals.

@@ -8,12 +8,33 @@
 /insights.html /insights 301
 /real-estate-advisory.html /real-estate-advisory 301
 /stress-test.html /stress-test 301
-/insights/acquisition-due-diligence-red-flags.html /insights/acquisition-due-diligence-red-flags 301
+/insights/acquisition-due-diligence-red-flags.html /buy-a-business/what-should-i-check 301
 /insights/cap-rate-is-not-cash-flow.html /insights/cap-rate-is-not-cash-flow 301
-/insights/development-feasibility-vancouver.html /insights/development-feasibility-vancouver 301
+/insights/development-feasibility-vancouver.html /development/will-my-project-make-money 301
 /insights/exit-readiness-normalized-ebitda-business-sale.html /insights/exit-readiness-normalized-ebitda-business-sale 301
-/insights/financial-due-diligence-buying-small-business-vancouver.html /insights/financial-due-diligence-buying-small-business-vancouver 301
+/insights/financial-due-diligence-buying-small-business-vancouver.html /buy-a-business/what-should-i-check 301
 /insights/improve-cash-flow-before-financing.html /insights/improve-cash-flow-before-financing 301
 /insights/lender-ready-financial-model.html /insights/lender-ready-financial-model 301
 /insights/noi-quality-real-estate.html /insights/noi-quality-real-estate 301
 /insights/owner-tax-leakage-check.html /insights/owner-tax-leakage-check 301
+/business.html /business 301
+/buy-a-business.html /buy-a-business 301
+/sell-my-business.html /sell-my-business 301
+/real-estate.html /real-estate 301
+/development.html /development 301
+/business/how-much-can-my-business-borrow.html /business/how-much-can-my-business-borrow 301
+/business/profitable-but-no-cash.html /business/profitable-but-no-cash 301
+/business/financials-for-business-loan.html /business/financials-for-business-loan 301
+/buy-a-business/how-much-should-i-pay.html /buy-a-business/how-much-should-i-pay 301
+/buy-a-business/what-should-i-check.html /buy-a-business/what-should-i-check 301
+/sell-my-business/how-much-is-my-business-worth.html /sell-my-business/how-much-is-my-business-worth 301
+/development/will-my-project-make-money.html /development/will-my-project-make-money 301
+/real-estate/is-this-property-a-good-investment.html /real-estate/is-this-property-a-good-investment 301
+/tax.html /tax 301
+/tax/should-i-incorporate.html /tax/should-i-incorporate 301
+/tax/salary-vs-dividends.html /tax/salary-vs-dividends 301
+
+# Consolidate overlapping legacy articles into one authoritative decision page.
+/insights/financial-due-diligence-buying-small-business-vancouver /buy-a-business/what-should-i-check 301
+/insights/acquisition-due-diligence-red-flags /buy-a-business/what-should-i-check 301
+/insights/development-feasibility-vancouver /development/will-my-project-make-money 301
