@@ -2,8 +2,9 @@
 
 HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses, with specialist acquisition, development and commercial real estate finance capability. The site is organized around the decisions owners are trying to make, supported by professional service pages.
 
-Primary service:
-- Fractional CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
+Primary services:
+- Fractional and part-time CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
+- Cash flow forecasting services Vancouver: https://hsstrategiccfo.com/business/cash-flow-forecasting-vancouver
 
 ## Customer decision hubs
 - Business cash flow and borrowing: https://hsstrategiccfo.com/business
@@ -17,6 +18,7 @@ Primary service:
 - Why is my business profitable but short of cash?: https://hsstrategiccfo.com/business/profitable-but-no-cash
 - How much can my business borrow?: https://hsstrategiccfo.com/business/how-much-can-my-business-borrow
 - What financials are needed for a business loan?: https://hsstrategiccfo.com/business/financials-for-business-loan
+- What belongs in a 13-week cash flow forecast?: https://hsstrategiccfo.com/business/cash-flow-forecasting-vancouver
 - How much should I pay for a business?: https://hsstrategiccfo.com/buy-a-business/how-much-should-i-pay
 - What should I check before buying a business?: https://hsstrategiccfo.com/buy-a-business/what-should-i-check
 - How much is my business worth?: https://hsstrategiccfo.com/sell-my-business/how-much-is-my-business-worth
@@ -27,6 +29,7 @@ Primary service:
 
 ## Professional services
 - Fractional CFO: https://hsstrategiccfo.com/business-growth-cfo
+- Cash flow forecasting: https://hsstrategiccfo.com/business/cash-flow-forecasting-vancouver
 - Development finance: https://hsstrategiccfo.com/development-finance-consulting
 - Real estate financial analysis: https://hsstrategiccfo.com/real-estate-advisory
 - Acquisition and exit advisory: https://hsstrategiccfo.com/acquisition-exit-advisory
