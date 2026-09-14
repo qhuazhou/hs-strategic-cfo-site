@@ -61,8 +61,21 @@ for (const file of htmlFiles) {
 }
 
 const sitemap = await readFile(new URL("../sitemap.xml", import.meta.url), "utf8");
+const redirects = await readFile(new URL("../_redirects", import.meta.url), "utf8");
+const redirectSources = new Set(
+  [...redirects.matchAll(/^(\/\S+)\s+\S+\s+301$/gm)].map(([, source]) => source),
+);
 for (const canonical of canonicalUrls) {
+  if (redirectSources.has(new URL(canonical).pathname)) continue;
   if (!sitemap.includes(`<loc>${canonical}</loc>`)) errors.push(`sitemap missing ${canonical}`);
+}
+
+for (const source of redirectSources) {
+  if (source.includes("*") || source.endsWith(".html")) continue;
+  const redirectedUrl = `https://hsstrategiccfo.com${source}`;
+  if (sitemap.includes(`<loc>${redirectedUrl}</loc>`)) {
+    errors.push(`sitemap includes redirected URL ${redirectedUrl}`);
+  }
 }
 
 if (errors.length) {

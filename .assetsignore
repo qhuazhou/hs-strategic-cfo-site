@@ -10,3 +10,5 @@ node_modules/**
 .gitignore
 .assetsignore
 wrangler.jsonc
+outreach
+outreach/**
