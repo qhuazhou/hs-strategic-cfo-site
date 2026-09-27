@@ -14,6 +14,7 @@ Primary services:
 - Commercial real estate decisions: https://hsstrategiccfo.com/real-estate
 - Property development decisions: https://hsstrategiccfo.com/development
 - Tax-aware owner decisions: https://hsstrategiccfo.com/tax
+- Books by Calvin Zhou, including A Guide to Canadian Real Estate Tax Planning: https://hsstrategiccfo.com/books
 
 ## Authoritative decision pages
 - Why is my business profitable but short of cash?: https://hsstrategiccfo.com/business/profitable-but-no-cash
@@ -27,6 +28,9 @@ Primary services:
 - Will my development project make money?: https://hsstrategiccfo.com/development/will-my-project-make-money
 - Should I incorporate my business in Canada?: https://hsstrategiccfo.com/tax/should-i-incorporate
 - Salary vs dividends in Canada: https://hsstrategiccfo.com/tax/salary-vs-dividends
+- Can you deduct mortgage interest on a rental property in Canada?: https://hsstrategiccfo.com/tax/rental-property-mortgage-interest-canada
+- Should you buy rental property through a corporation in Canada?: https://hsstrategiccfo.com/tax/rental-property-corporation-canada
+- Should you claim CCA on a rental property in Canada?: https://hsstrategiccfo.com/tax/cca-rental-property-canada
 
 ## Professional services
 - Fractional CFO: https://hsstrategiccfo.com/business-growth-cfo
@@ -43,9 +47,11 @@ Primary services:
 - Business value and exit readiness
 - Development pro formas, project cash flow, funding packages and lender draws
 - Commercial real estate NOI, financing and investment analysis
+- Canadian real estate tax-planning decision models covering borrowing, ownership, CCA and after-tax exit outcomes
 
 Author and advisor:
 - Calvin Zhou, Fractional CFO and Strategic Finance Advisor at HS Strategic CFO Advisory: https://hsstrategiccfo.com/about
+- Author of A Guide to Canadian Real Estate Tax Planning: Structures, Strategies, Case Studies, available as a CAD $39.99 Kindle edition: https://www.amazon.ca/dp/B0GX32M2Y8
 
 Important scope note:
 HS provides strategic financial analysis and decision support. Specific lending decisions remain with capital providers. Tax, legal, assurance, appraisal and regulated advice should be confirmed with the appropriate qualified professionals.
