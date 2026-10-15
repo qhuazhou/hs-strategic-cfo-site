@@ -1790,6 +1790,155 @@ h1, h2, h3,
   .button, .nav-cta { transition: none; }
 }
 
+/* 2026-10 editorial catalogue and lower-priority specialist pathways */
+.book-series-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  align-items: stretch;
+}
+
+.series-book {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid rgba(21, 54, 47, .12);
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 18px 42px rgba(20, 72, 60, .08);
+}
+
+.series-cover {
+  display: block;
+  padding: 24px 24px 0;
+  text-align: center;
+  background: linear-gradient(160deg, #eefbf6 0%, #fff7df 100%);
+}
+
+.series-cover img {
+  width: min(100%, 250px);
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 7px 7px 4px 4px;
+  box-shadow: 0 20px 36px rgba(18, 50, 44, .2);
+}
+
+.series-book > div {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 24px;
+}
+
+.series-book span {
+  color: #08715e;
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.series-book h3 {
+  margin: 10px 0 12px;
+  color: #14362f;
+  font-size: 1.35rem;
+}
+
+.series-book p {
+  color: #48685f;
+}
+
+.series-book div > a {
+  margin-top: auto;
+  padding-top: 12px;
+  color: #08715e;
+  font-weight: 800;
+}
+
+.featured-book-card {
+  padding-block: 16px;
+}
+
+.compact-cover {
+  justify-self: center;
+  max-width: 260px;
+}
+
+.resource-band {
+  border-top: 1px solid rgba(21, 54, 47, .12);
+  border-bottom: 1px solid rgba(21, 54, 47, .12);
+  background: linear-gradient(90deg, #edfbf6 0%, #fff9df 100%);
+}
+
+.resource-band .container {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) auto;
+  gap: 30px;
+  align-items: center;
+}
+
+.specialist-strip {
+  background: #f4faf8;
+}
+
+.specialist-strip .grid {
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+.home-book-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  align-items: end;
+}
+
+.home-book-grid a {
+  display: block;
+  transition: transform .24s ease;
+}
+
+.home-book-grid a:hover {
+  transform: translateY(-8px);
+}
+
+.home-book-grid img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 18px 38px rgba(10, 52, 43, .2);
+}
+
+@media (max-width: 900px) {
+  .book-series-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .series-book {
+    display: grid;
+    grid-template-columns: minmax(150px, .65fr) minmax(0, 1.35fr);
+  }
+
+  .series-cover {
+    padding: 20px;
+  }
+
+  .resource-band .container {
+    grid-template-columns: 1fr;
+  }
+
+  .home-book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .series-book {
+    display: flex;
+  }
+}
+
 /* 2026 Project Control Room visual system */
 :root {
   --ink: #10191f;

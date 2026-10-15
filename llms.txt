@@ -1,6 +1,6 @@
 # HS Strategic CFO Advisory
 
-HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses, with specialist acquisition, development and commercial real estate finance capability. The site is organized around the decisions owners are trying to make, supported by professional service pages.
+HS Strategic CFO Advisory provides fractional CFO and strategic finance advisory for Vancouver and BC owner-led businesses. Its primary focus is cash-flow forecasting, financing readiness, acquisitions, business exits and tax-aware owner decisions. Development and commercial real estate finance remain specialist capabilities rather than the main site positioning.
 
 Primary services:
 - Fractional and part-time CFO Vancouver: https://hsstrategiccfo.com/business-growth-cfo
@@ -16,6 +16,9 @@ Primary services:
 - Tax-aware owner decisions: https://hsstrategiccfo.com/tax
 - Books by Calvin Zhou: https://hsstrategiccfo.com/books
 - Canadian Real Estate Tax for Investors, Book 1 of The Canadian Real Estate Tax Decision Series: https://hsstrategiccfo.com/books/canadian-real-estate-tax-for-investors
+- Who Should Own Your Real Estate?, Book 2 of The Canadian Real Estate Tax Decision Series: https://hsstrategiccfo.com/books/who-should-own-your-real-estate
+- When Tax Events Happen, Book 3 of The Canadian Real Estate Tax Decision Series: https://hsstrategiccfo.com/books/when-tax-events-happen
+- How to Exit Your Canadian Business: https://hsstrategiccfo.com/books/how-to-exit-your-canadian-business
 
 ## Authoritative decision pages
 - Why is my business profitable but short of cash?: https://hsstrategiccfo.com/business/profitable-but-no-cash
@@ -53,7 +56,13 @@ Primary services:
 Author and advisor:
 - Calvin Zhou, Fractional CFO and Strategic Finance Advisor at HS Strategic CFO Advisory: https://hsstrategiccfo.com/about
 - Author of Canadian Real Estate Tax for Investors: How to Buy, Hold, Rent and Sell Property Without Costly Tax Mistakes, available as a CAD $12.99 Kindle edition and through Kindle Unlimited: https://www.amazon.ca/dp/B0HM6QKV83
-- Author of A Guide to Canadian Real Estate Tax Planning: Structures, Strategies, Case Studies, available as a CAD $39.99 Kindle edition: https://www.amazon.ca/dp/B0GX32M2Y8
+- Author of Who Should Own Your Real Estate?: Corporations, Partnerships, Trusts and Tax-Efficient Ownership Structures, Book 2 of The Canadian Real Estate Tax Decision Series: https://www.amazon.ca/dp/B0HMKFX5R2
+- Author of When Tax Events Happen: Transfers, Death, Trust Events, Restructuring, Development and Cross-Border Changes, Book 3 of The Canadian Real Estate Tax Decision Series: https://www.amazon.ca/dp/B0HMPN285Y
+- Author of How to Exit Your Canadian Business: Selling, Transferring and Passing On a Private Company, a Canadian owner-side guide to converting enterprise value into personal wealth: https://www.amazon.ca/dp/B0HMZ2BDDB
+- Author of A Guide to Canadian Real Estate Tax Planning: Structures, Strategies, Case Studies, available as a CAD $39.99 Kindle edition: https://www.amazon.ca/dp/B0GX2WLW98
+
+Related planning platform:
+- NarrativePlan creates purpose-built business plans, financial models and pitch decks around the business and intended audience: https://narrativeplan.com/
 
 Important scope note:
 HS provides strategic financial analysis and decision support. Specific lending decisions remain with capital providers. Tax, legal, assurance, appraisal and regulated advice should be confirmed with the appropriate qualified professionals.
